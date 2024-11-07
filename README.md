@@ -1,4 +1,5 @@
-# Pemrograman_Mobile## Aplikasi PantauCuan 
+# UTS_Pemrograman Mobile
+## APLIKASI UrNote
 | UTS  |  Pemrograman Mobile 1   |
 |-------|--------- |
 | Nama   | Habib Suprayoga |
@@ -47,7 +48,7 @@ Halaman pengaturan aplikasi Logo UrNote di bagian atas Beberapa opsi pengaturan 
 - Hapus
 
 
-**Dashboard 2**
+**5. Dashboard 2**
 Tampilan alternatif dari dashboard
 Logo UrNote di bagian atas
 Tombol "+" untuk menambah catatan
